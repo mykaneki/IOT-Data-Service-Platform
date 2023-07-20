@@ -13,41 +13,41 @@
 
 数据库整体数据
 
-![image-20230720131627542](D:/project/cloneproject/IOT-Data-Service-Platform/README.assets/image-20230720131627542.png)
+![image-20230720131627542](./README.assets/image-20230720131627542.png)
 
 6 号车位无车变有车
 
-![image-20230720131648651](D:/project/cloneproject/IOT-Data-Service-Platform/README.assets/image-20230720131648651.png)
+![image-20230720131648651](./README.assets/image-20230720131648651.png)
 
 数据库数据更新
 
-![image-20230720131706505](D:/project/cloneproject/IOT-Data-Service-Platform/README.assets/image-20230720131706505.png)
+![image-20230720131706505](./README.assets/image-20230720131706505.png)
 
 前端页面改变
 
 改变前
 
-![image-20230720131735287](D:/project/cloneproject/IOT-Data-Service-Platform/README.assets/image-20230720131735287.png)
+![image-20230720131735287](./README.assets/image-20230720131735287.png)
 
 改变后
 
-![image-20230720131750475](D:/project/cloneproject/IOT-Data-Service-Platform/README.assets/image-20230720131750475.png)
+![image-20230720131750475](./README.assets/image-20230720131750475.png)
 
 8 号车位有车变无车
 
-![image-20230720131808749](D:/project/cloneproject/IOT-Data-Service-Platform/README.assets/image-20230720131808749.png)
+![image-20230720131808749](./README.assets/image-20230720131808749.png)
 
 数据库数据更新
 
-![image-20230720131824066](D:/project/cloneproject/IOT-Data-Service-Platform/README.assets/image-20230720131824066.png)
+![image-20230720131824066](./README.assets/image-20230720131824066.png)
 
 前端页面改变
 
 改变前
 
-![image-20230720131838347](D:/project/cloneproject/IOT-Data-Service-Platform/README.assets/image-20230720131838347.png)
+![image-20230720131838347](./README.assets/image-20230720131838347.png)
 
 改变后
 
-![image-20230720131855007](D:/project/cloneproject/IOT-Data-Service-Platform/README.assets/image-20230720131855007.png)
+![image-20230720131855007](./README.assets/image-20230720131855007.png)
 
